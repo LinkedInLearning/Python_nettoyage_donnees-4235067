@@ -1,12 +1,12 @@
-# Python : Le nettoyage de données
+# Python : Le nettoyage des données
 
-Ce dossier Repository est lié au cours `Python : Le nettoyage de données`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Python : Le nettoyage des données`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.    
 
-DESCRIPTION DE LA FORMATION
+Dans cette formation, Omar Souissi vous initie au nettoyage des données avec Python, une tâche essentielle en science des données. Vous apprendrez à identifier et à corriger les erreurs, les doublons, les valeurs manquantes et aberrantes. Vous découvrirez comment utiliser l'imputation, normaliser les données et automatiser le processus via des pipelines. Les erreurs humaines, de machines ou de conception seront analysées, afin de vous aider à comprendre les causes profondes des données de mauvaise qualité. Enfin, vous aborderez l’utilisation des expressions régulières et vous créerez des fonctions réutilisables pour simplifier vos tâches de nettoyage.
 
 ## Instructions
 
