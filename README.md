@@ -29,7 +29,7 @@ La branche master correspond au code à la fin de la formation.
 
 ### Formateur
 
-**Nom du formateur** 
+**Omar Souissi** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
