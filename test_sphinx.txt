@@ -1,0 +1,52 @@
+"""
+# -*- coding: utf-8 -*-
+# data_cleaning.py
+
+def remplace_virgules_avec_points(note):
+    \"""
+    Remplace les virgules par des points dans une chaîne de caractères représentant une note.
+
+    Parameters
+    ----------
+    note : str
+        La note avec des virgules à remplacer par des points.
+
+    Returns
+    -------
+    float
+        La note après remplacement des virgules par des points.
+    \"""
+    return float(note.replace(',', '.'))
+
+def nettoyage_texte(texte):
+    \"""
+    Nettoie le texte en supprimant les espaces en trop et en mettant la première lettre en majuscule.
+
+    Parameters
+    ----------
+    texte : str
+        Le texte à nettoyer.
+
+    Returns
+    -------
+    str
+        Le texte nettoyé.
+    \"""
+    return texte.strip().title()
+
+def corr_texte(filiere):
+    \"""
+    Corrige les filières manquantes en ajoutant '1' à 'F'.
+
+    Parameters
+    ----------
+    filiere : str
+        La filière à corriger.
+
+    Returns
+    -------
+    str
+        La filière corrigée.
+    \"""
+    return 'F1' if filiere == 'F' else filiere
+"""
